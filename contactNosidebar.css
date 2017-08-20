@@ -1,0 +1,29 @@
+   @charset "UTF-8";
+/* CSS Document */
+/*
+Theme Name: Project_The Winding Path 0.6
+Author: Piano Hagens, Tomomi Matsuzakl, Liz Stone, Trang Pham, Sicheng Zhu
+Author URI: https://www.phagens.com/web210/
+Description: Web 210 WordPress Project_The Winding Path
+Version: 1.0 */
+
+* { margin: 0; padding: 0; }
+
+ div#content {
+		width: 100% !important;
+		overflow: hidden; 
+		align-content: center;
+		}
+
+		h1 {
+		margin: 20px auto 20px !important;
+
+		}
+ 
+
+	map {
+    	display: inline;
+		}
+
+	h2{
+		display:none;}
